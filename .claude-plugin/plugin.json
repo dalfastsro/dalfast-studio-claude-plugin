@@ -1,5 +1,6 @@
 {
     "name": "dalfast-studio",
+    "displayName": "DALFAST Studio",
     "version": "1.0.0",
     "description": "Design flyers, social posts, cards, invitations, posters and menus from DALFAST Studio templates, right from the chat, then open them in DALFAST Studio to finish, print or share.",
     "author": {
@@ -8,7 +9,11 @@
         "url": "https://dalfast.studio"
     },
     "homepage": "https://dalfast.studio/connect",
+    "documentationUrl": "https://dalfast.studio/connect",
+    "supportUrl": "https://dalfast.studio/support",
+    "repository": "https://github.com/dalfastsro/dalfast-studio-claude-plugin",
     "privacyPolicyUrl": "https://dalfast.studio/legal/privacy",
+    "termsOfServiceUrl": "https://dalfast.studio/legal/terms",
     "license": "MIT",
     "keywords": [
         "design",
