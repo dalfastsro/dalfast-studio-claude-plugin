@@ -1,8 +1,8 @@
 {
     "name": "dalfast-studio",
     "displayName": "DALFAST Studio",
-    "version": "1.0.0",
-    "description": "Design flyers, social posts, cards, invitations, posters and menus from DALFAST Studio templates, right from the chat, then open them in DALFAST Studio to finish, print or share.",
+    "version": "1.0.1",
+    "description": "Small business design & video: make flyers, posts, menus and ads from the chat with your own words, then finish them in DALFAST Studio.",
     "author": {
         "name": "DALFAST, s.r.o.",
         "email": "support@dalfast.studio",
@@ -16,13 +16,14 @@
     "termsOfServiceUrl": "https://dalfast.studio/legal/terms",
     "license": "MIT",
     "keywords": [
+        "small business",
+        "marketing",
         "design",
+        "video",
         "templates",
         "flyer",
         "social media",
-        "invitation",
-        "poster",
-        "marketing",
+        "brand",
         "print"
     ]
 }
