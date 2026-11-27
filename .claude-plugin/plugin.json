@@ -1,8 +1,8 @@
 {
     "name": "dalfast-studio",
     "displayName": "DALFAST Studio",
-    "version": "1.0.1",
-    "description": "Small business design & video: make flyers, posts, menus and ads from the chat with your own words, then finish them in DALFAST Studio.",
+    "version": "1.0.2",
+    "description": "Designs, videos & marketing for everyone: make posts, flyers, menus, presentations, invoices, cards and ads from the chat with your own words, then finish them in DALFAST Studio.",
     "author": {
         "name": "DALFAST, s.r.o.",
         "email": "support@dalfast.studio",
@@ -16,14 +16,18 @@
     "termsOfServiceUrl": "https://dalfast.studio/legal/terms",
     "license": "MIT",
     "keywords": [
-        "small business",
-        "marketing",
         "design",
         "video",
-        "templates",
-        "flyer",
+        "marketing",
         "social media",
+        "flyer",
+        "menu",
+        "presentation",
+        "invoice",
         "brand",
+        "templates",
+        "creators",
+        "business",
         "print"
     ]
 }
